@@ -1,0 +1,120 @@
+"","sample_record_identifier","Nearest_Temp_Val","Nearest_Sal_Val","pa_uku"
+"1","OES1106084Etel.01",26.47053,34.91314,1
+"2","Oscar Elton Sette_11_06station100",26.47053,34.91314,0
+"3","Oscar Elton Sette_11_06station107",NA,NA,0
+"4","Oscar Elton Sette_11_06station116",26.47053,34.91314,0
+"5","Oscar Elton Sette_11_06station133",NA,NA,0
+"6","Oscar Elton Sette_11_06station20",NA,NA,0
+"7","Oscar Elton Sette_11_06station31",26.05054,34.89073,0
+"8","Oscar Elton Sette_11_06station44",26.47053,34.91314,0
+"9","Oscar Elton Sette_11_06station54",26.93207,34.91606,0
+"10","Oscar Elton Sette_11_06station66",26.66134,34.92697,0
+"11","Oscar Elton Sette_11_06station76",26.47053,34.91314,0
+"12","Oscar Elton Sette_11_06station9",NA,NA,0
+"13","Oscar Elton Sette_12_06station12",26.41983,35.28726,0
+"14","Oscar Elton Sette_12_06station13",26.41983,35.28726,0
+"15","Oscar Elton Sette_12_06station16",25.88547,35.37555,0
+"16","Oscar Elton Sette_12_06station17",25.88547,35.37555,0
+"17","Oscar Elton Sette_12_06station20",25.97028,35.48013,0
+"18","Oscar Elton Sette_12_06station21",25.97028,35.48013,0
+"19","Oscar Elton Sette_12_06station23",25.74163,35.36739,0
+"20","Oscar Elton Sette_12_06station25",26.53639,35.06934,0
+"21","Oscar Elton Sette_12_06station26",26.53639,35.06934,0
+"22","Oscar Elton Sette_12_06station30",26.1465,35.03744,0
+"23","Oscar Elton Sette_12_06station34",26.33514,35.24146,0
+"24","Oscar Elton Sette_12_06station36",26.33514,35.24146,0
+"25","Oscar Elton Sette_12_06station37",26.33514,35.24146,0
+"26","Oscar Elton Sette_12_06station39",26.44255,35.24887,0
+"27","Oscar Elton Sette_12_06station42",26.22964,35.25634,0
+"28","Oscar Elton Sette_12_06station43",26.22964,35.25634,0
+"29","Oscar Elton Sette_12_06station5",25.78871,35.19557,0
+"30","Oscar Elton Sette_12_06station8",25.89366,35.3373,0
+"31","Oscar Elton Sette_12_06station9",25.89366,35.3373,0
+"32","SE1206001ETEL-01",25.81412,35.1864,1
+"33","SE1206004ETEL-02",25.78871,35.19557,1
+"34","SE120629ETEL-02",26.1465,35.03744,1
+"35","SE120632ETEL-05",26.33514,35.24146,1
+"36","SE120640LUTJ-01",26.44255,35.24887,1
+"37","USNM 322280",26.5,34.84,1
+"38","Townsend Cromwell_32_9_354",26.5,34.89,0
+"39","Townsend Cromwell_32_15_352",26.7,34.88,0
+"40","Townsend Cromwell_32_23_403",26.7,34.87,0
+"41","Townsend Cromwell_32_29_343",26.7,34.89,0
+"42","Townsend Cromwell_32_34_342",27.4,34.74,0
+"43","Townsend Cromwell_32_40_342",27.3,34.68,0
+"44","Townsend Cromwell_32_47_341",27.2,34.73,0
+"45","Townsend Cromwell_32_50_345",27.3,34.83,0
+"46","Townsend Cromwell_32_57_344",27.1,34.82,0
+"47","Townsend Cromwell_32_60_943",26.7,NA,0
+"48","Townsend Cromwell_32_62_28",27.7,34.78,0
+"49","Townsend Cromwell_32_63_430",27.7,34.78,0
+"50","USNM 322279",27.7,34.78,1
+"51","Townsend Cromwell_32_66_345",28.3,34.62,0
+"52","Townsend Cromwell_32_75_346",27.5,34.59,0
+"53","Townsend Cromwell_32_82_343",27.2,34.79,0
+"54","Townsend Cromwell_32_85_344",27.4,34.84,0
+"55","Townsend Cromwell_32_6_354",26.5,34.89,0
+"56","Townsend Cromwell_32_12_403",26.5,34.9,0
+"57","Townsend Cromwell_32_18_354",26.9,34.83,0
+"58","Townsend Cromwell_32_20_354",27,34.86,0
+"59","USNM 322281",26.8,34.86,1
+"60","Townsend Cromwell_32_31_354",27.2,34.81,0
+"61","Townsend Cromwell_32_37_354",27.3,34.74,0
+"62","Townsend Cromwell_32_44_353",27,34.79,0
+"63","Townsend Cromwell_32_53_349",27.3,34.81,0
+"64","Townsend Cromwell_32_65_426",27.7,34.78,0
+"65","Townsend Cromwell_32_69_402",27.7,34.66,0
+"66","Townsend Cromwell_32_71_352",27.7,34.66,0
+"67","Townsend Cromwell_32_1_1159",26.8,34.98,0
+"68","Townsend Cromwell_32_7_1154",26.6,34.88,0
+"69","Townsend Cromwell_32_21_1142",27,34.86,0
+"70","Townsend Cromwell_32_27_1205",26.8,34.91,0
+"71","Townsend Cromwell_32_32_1148",27.3,34.64,0
+"72","Townsend Cromwell_32_38_1144",27.3,34.72,0
+"73","Townsend Cromwell_32_45_1143",27.2,34.71,0
+"74","Townsend Cromwell_32_54_1142",27.4,34.82,0
+"75","Townsend Cromwell_32_61_1226",26.6,NA,0
+"76","Townsend Cromwell_32_72_1145",27.9,34.64,0
+"77","Townsend Cromwell_32_4_1146",26.7,34.87,0
+"78","Townsend Cromwell_32_10_1154",26.8,34.88,0
+"79","Townsend Cromwell_32_16_1155",26.8,34.82,0
+"80","Townsend Cromwell_32_24_1151",26.9,34.86,0
+"81","Townsend Cromwell_32_35_1151",27.6,34.72,0
+"82","Townsend Cromwell_32_41_1151",27.3,34.71,0
+"83","Townsend Cromwell_32_48_1155",27.3,34.7,0
+"84","Townsend Cromwell_32_51_1153",27.3,34.84,0
+"85","Townsend Cromwell_32_67_1152",28,34.65,0
+"86","Townsend Cromwell_32_76_1147",27.6,34.62,0
+"87","Townsend Cromwell_32_80_1147",27.3,34.77,0
+"88","Townsend Cromwell_32_83_1155",27.3,34.77,0
+"89","Townsend Cromwell_32_5_1946",26.7,34.88,0
+"90","Townsend Cromwell_32_11_1950",26.6,34.88,0
+"91","Townsend Cromwell_32_17_1946",27,34.81,0
+"92","Townsend Cromwell_32_19_1944",27.5,34.89,0
+"93","Townsend Cromwell_32_25_1942",26.9,34.87,0
+"94","Townsend Cromwell_32_30_1944",27.4,34.79,0
+"95","Townsend Cromwell_32_36_1943",27.3,34.69,0
+"96","Townsend Cromwell_32_43_1946",27,34.79,0
+"97","Townsend Cromwell_32_52_1942",28,34.82,0
+"98","Townsend Cromwell_32_59_1941",27.7,34.85,0
+"99","Townsend Cromwell_32_68_1953",28,34.65,0
+"100","Townsend Cromwell_32_70_1946",28,34.69,0
+"101","Townsend Cromwell_32_73_1945",27.9,34.67,0
+"102","Townsend Cromwell_32_74_1945",27.6,34.58,0
+"103","Townsend Cromwell_32_77_1949",27.9,34.62,0
+"104","Townsend Cromwell_32_78_1942",27.5,34.74,0
+"105","Townsend Cromwell_32_81_1941",27.6,34.78,0
+"106","Townsend Cromwell_32_84_1942",27.7,34.77,0
+"107","Townsend Cromwell_32_2_1953",27,34.85,0
+"108","Townsend Cromwell_32_8_1954",26.7,34.88,0
+"109","Townsend Cromwell_32_14_1953",27.2,34.9,0
+"110","Townsend Cromwell_32_22_1952",27,34.83,0
+"111","Townsend Cromwell_32_28_1952",26.9,34.9,0
+"112","Townsend Cromwell_32_33_1950",27.3,34.68,0
+"113","Townsend Cromwell_32_39_1953",27.4,34.73,0
+"114","Townsend Cromwell_32_46_1951",27.3,34.72,0
+"115","Townsend Cromwell_32_55_1951",27.7,34.78,0
+"116","Townsend Cromwell_32_56_1952",27.5,34.84,0
+"117","Townsend Cromwell_32_79_350",27.3,34.8,0
+"118","Townsend Cromwell_32_13_1154",26.7,34.9,0
+"119","Townsend Cromwell_32_58_1221",27.3,34.84,0
